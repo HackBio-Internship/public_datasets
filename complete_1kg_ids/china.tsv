@@ -1,0 +1,110 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG00978	female	SAME124727	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01046	female	SAME123167	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00864	female	SAME123547	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG01798	female	SAME124228	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01801	female	SAME124305	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01806	female	SAME124304	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01813	female	SAME124518	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02152	female	SAME124790	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02164	female	SAME124209	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02169	female	SAME1839233	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02176	female	SAME1839024	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02188	female	SAME122829	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02190	female	SAME125259	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01797	female	SAME124219	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01800	female	SAME124306	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01805	female	SAME124301	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01812	female	SAME124517	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01817	female	SAME124522	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02353	male	SAME1840276	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02358	male	SAME1840334	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02360	male	SAME1840391	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02373	male	SAME124104	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02380	male	SAME1840045	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02385	male	SAME1840006	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02392	male	SAME1839776	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02151	female	SAME1839403	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02397	male	SAME123308	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02405	male	SAME1839398	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02372	male	SAME1840258	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02377	male	SAME1840228	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02384	male	SAME1840011	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02389	male	SAME1840085	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02391	male	SAME1839784	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02156	female	SAME124793	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02168	female	SAME1839240	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02170	female	SAME1839052	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02182	female	SAME125035	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02187	female	SAME125038	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02396	male	SAME125357	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02409	male	SAME1839457	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00866	male	SAME123549	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01028	male	SAME123524	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00844	male	SAME123952	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00851	female	SAME123756	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00983	male	SAME123769	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG01794	female	SAME124218	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01799	female	SAME124227	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01802	female	SAME124307	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01807	female	SAME124303	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01796	female	SAME124220	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01804	female	SAME124302	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02153	female	SAME124791	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01809	female	SAME124299	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01811	male	SAME125380	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01816	male	SAME124521	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02165	female	SAME124208	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02184	female	SAME123216	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02155	female	SAME124795	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02189	female	SAME125040	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02398	male	SAME1839845	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02401	male	SAME1839415	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02406	male	SAME1839394	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02355	male	SAME1840269	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02367	male	SAME1840113	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02395	male	SAME1839754	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02374	male	SAME1840247	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02408	male	SAME1839461	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02379	male	SAME1840217	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02410	male	SAME1839207	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02381	male	SAME1840033	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02386	male	SAME1840001	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02364	male	SAME1840125	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02371	male	SAME1840180	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02383	male	SAME1840019	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02388	male	SAME1839997	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02390	male	SAME1839788	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02179	female	SAME124415	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02181	female	SAME123206	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02186	female	SAME125039	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00759	female	SAME125020	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00766	female	SAME124458	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00867	female	SAME123550	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00879	female	SAME123399	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00881	male	SAME123540	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00956	female	SAME124319	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG00982	male	SAME123770	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01029	female	SAME123523	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01031	male	SAME123728	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01795	female	SAME124217	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01808	female	SAME124300	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01810	male	SAME124519	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01815	female	SAME124524	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02351	male	SAME1840284	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02356	male	SAME1840261	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02154	female	SAME124794	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02166	female	SAME124207	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02173	female	SAME1839041	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38
+HG02178	female	SAME124414	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02180	female	SAME123208	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02185	female	SAME123215	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02250	male	SAME1839268	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02363	male	SAME1840379	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02375	male	SAME1840244	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02382	male	SAME1840025	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02387	male	SAME1839998	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG02394	male	SAME123305	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02399	male	SAME1839842	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02402	male	SAME1839412	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02407	male	SAME1839464	CDX	Dai Chinese	EAS	East Asian Ancestry	CDX	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release

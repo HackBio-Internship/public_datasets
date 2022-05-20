@@ -1,0 +1,106 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+NA19056	male	SAME125026	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19063	male	SAME123006	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19068	male	SAME123012	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19070	male	SAME122820	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19075	male	SAME122816	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19082	male	SAME123370	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19087	female	SAME123367	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18939	female	SAME123041	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18941	female	SAME124311	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18946	female	SAME124312	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18953	male	SAME124113	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18960	male	SAME123956	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18965	male	SAME123961	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18972	female	SAME123762	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18977	male	SAME123765	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18984	male	SAME125071	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18989	male	SAME125079	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18991	female	SAME124892	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19002	female	SAME124479	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19007	male	SAME124476	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18940	male	SAME124310	JPT	Japanese,Japanese	EAS	East Asia (SGDP),East Asian Ancestry	JapaneseSGDP,JPT	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18945	male	SAME124315	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18952	male	SAME124114	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18957	female	SAME124109	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18964	female	SAME123960	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18969	female	SAME123954	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18971	male	SAME123763	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18976	female	SAME123766	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18983	male	SAME125074	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18988	male	SAME125078	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18990	male	SAME124893	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18995	male	SAME124896	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19001	female	SAME124478	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19006	male	SAME125119	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19057	female	SAME125025	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19064	female	SAME123010	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19076	male	SAME122819	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19083	male	SAME123371	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19088	male	SAME123360	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19090	female	SAME123175	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19058	male	SAME125024	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19060	male	SAME123007	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19065	female	SAME123011	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19072	male	SAME122822	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19077	female	SAME122818	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19084	female	SAME123364	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19089	male	SAME123649	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19091	male	SAME123174	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA18942	female	SAME124308	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18947	female	SAME124313	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18954	female	SAME124108	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18959	male	SAME124115	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18961	male	SAME123957	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18966	male	SAME123962	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18973	female	SAME123761	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18978	female	SAME123760	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18980	female	SAME123527	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18985	male	SAME123413	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18992	female	SAME124983	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18997	female	SAME124898	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19003	female	SAME124480	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19010	female	SAME123989	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19055	male	SAME125027	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19062	male	SAME123005	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19067	male	SAME123835	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19074	female	SAME122817	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19079	male	SAME122823	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19081	female	SAME123369	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19086	male	SAME123366	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18949	female	SAME124317	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18951	female	SAME124111	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18956	female	SAME124110	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18963	female	SAME123959	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18968	female	SAME123953	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18970	male	SAME123764	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18975	female	SAME123767	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18982	male	SAME125073	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18987	female	SAME125070	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18994	male	SAME124897	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18999	female	SAME124890	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19000	male	SAME124477	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19005	male	SAME124474	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19012	male	SAME124260	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18944	male	SAME124314	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18955	male	SAME124107	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18962	male	SAME123958	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18967	male	SAME123963	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18974	male	SAME123768	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18979	female	SAME123759	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18981	female	SAME123426	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18986	male	SAME125069	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18993	female	SAME124894	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18998	female	SAME124891	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19004	male	SAME124473	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19009	male	SAME125133	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19011	female	SAME124512	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19054	female	SAME125028	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19059	female	SAME125023	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19066	male	SAME123008	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19078	female	SAME122824	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19080	female	SAME125313	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19085	male	SAME123365	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18943	male	SAME124309	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18948	male	SAME124316	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA18950	female	SAME124112	JPT	Japanese	EAS	East Asian Ancestry	JPT	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release

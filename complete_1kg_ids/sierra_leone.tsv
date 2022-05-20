@@ -1,0 +1,130 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG03059	male	SAME1839443	MSL	Mende	AFR	African Ancestry	MSL	
+HG03061	female	SAME1839215	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03066	male	SAME1839324	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03073	female	SAME1839019	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03078	male	SAME1839047	MSL	Mende,Mende	AFR	African Ancestry,Africa (SGDP)	MSL,MendeSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03080	female	SAME1840307	MSL	Mende	AFR	African Ancestry	MSL	
+HG03085	female	SAME1840328	MSL	Mende,Mende	AFR	African Ancestry,Africa (SGDP)	MSL,MendeSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03054	male	SAME1839507	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03097	female	SAME1840130	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03376	male	SAME1839736	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03383	female	SAME1839583	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03388	male	SAME1839524	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03477	male	SAME1839706	MSL	Mende	AFR	African Ancestry	MSL	
+HG03484	male	SAME1839393	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03446	female	SAME1839911	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03453	female	SAME1839750	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03458	female	SAME1839786	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03460	male	SAME1839908	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03465	male	SAME1839836	MSL	Mende	AFR	African Ancestry	MSL	
+HG03472	male	SAME1839678	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03225	male	SAME1839460	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03053	female	SAME1839502	MSL	Mende	AFR	African Ancestry	MSL	
+HG03212	female	SAME1839399	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03390	male	SAME1839632	MSL	Mende	AFR	African Ancestry	MSL	
+HG03224	male	SAME1839455	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03408	male	SAME1839071	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03410	female	SAME1839182	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03439	male	SAME1840213	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03058	female	SAME1839442	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03060	male	SAME1839211	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03065	male	SAME1839318	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2
+HG03072	male	SAME1839016	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03077	male	SAME1839044	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03084	male	SAME1840324	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03091	female	SAME1840360	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03096	male	SAME1840126	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03547	male	SAME1839878	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03559	male	SAME1839654	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03566	female	SAME1839433	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03578	female	SAME1839245	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03558	female	SAME1839561	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03565	male	SAME1839430	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03572	female	SAME1839463	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03476	female	SAME1839702	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03452	female	SAME1840046	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release
+HG03457	male	SAME1839781	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03464	female	SAME1839827	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03469	male	SAME1839850	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03471	male	SAME1839677	MSL	Mende	AFR	African Ancestry	MSL	
+HG03394	male	SAME1839648	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03399	male	SAME1839410	MSL	Mende	AFR	African Ancestry	MSL	
+HG03402	female	SAME1839301	MSL	Mende	AFR	African Ancestry	MSL	
+HG03419	female	SAME1839130	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03433	male	SAME1840110	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03438	female	SAME1840208	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03445	male	SAME1839996	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03577	male	SAME1839242	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03584	female	SAME1839290	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03382	male	SAME1839580	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03055	female	SAME1839514	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03062	male	SAME1839220	MSL	Mende	AFR	African Ancestry	MSL	
+HG03074	male	SAME1839029	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03079	female	SAME1839051	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03081	male	SAME1840310	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03086	female	SAME1840331	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03098	male	SAME1840136	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03478	male	SAME1839618	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03052	female	SAME1839496	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03480	female	SAME1839381	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03485	female	SAME1839469	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03454	male	SAME1839764	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03459	male	SAME1839793	MSL	Mende	AFR	African Ancestry	MSL	
+HG03461	female	SAME1839808	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03466	male	SAME1839839	MSL	Mende	AFR	African Ancestry	MSL	
+HG03473	female	SAME1839687	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03391	male	SAME1839636	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03411	female	SAME1839186	MSL	Mende	AFR	African Ancestry	MSL	
+HG03209	male	SAME1839551	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03428	female	SAME1840409	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03442	male	SAME1839979	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03384	female	SAME1839587	MSL	Mende	AFR	African Ancestry	MSL	
+HG03088	female	SAME1840338	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03095	female	SAME1840374	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03393	female	SAME1839645	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03398	female	SAME1839402	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03401	female	SAME1839299	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03432	male	SAME1840107	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03437	female	SAME1840123	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03548	female	SAME1839883	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03381	female	SAME1839574	MSL	Mende	AFR	African Ancestry	MSL	
+HG03567	female	SAME1839364	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03574	male	SAME1839229	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03579	male	SAME1839247	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03057	male	SAME1839434	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03064	female	SAME1839228	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03069	male	SAME1839340	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03076	female	SAME1839038	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes phase 3 release
+HG03557	female	SAME1839556	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03564	female	SAME1839427	MSL	Mende	AFR	African Ancestry	MSL	
+HG03569	female	SAME1839371	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03571	male	SAME1839458	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01783	male	SAME124427	IBS,MSL	Iberian,Mende	EUR,AFR	European Ancestry,African Ancestry	IBS,MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03576	female	SAME1839238	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03583	female	SAME1839283	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03449	female	SAME1839923	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03451	male	SAME1840043	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03456	male	SAME1839778	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03468	male	SAME1839848	MSL	Mende	AFR	African Ancestry	MSL	
+HG03470	female	SAME1839670	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03056	male	SAME1839518	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38
+HG03063	male	SAME1839226	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03082	female	SAME1840316	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03549	female	SAME1839890	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03556	male	SAME1839553	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03563	female	SAME1839421	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03474	male	SAME1839693	MSL	Mende	AFR	African Ancestry	MSL	
+HG03479	female	SAME1839623	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03486	female	SAME1839474	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG03378	female	SAME1839743	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03380	female	SAME1839569	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03385	male	SAME1839594	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03575	female	SAME1839236	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03582	male	SAME1839271	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03450	female	SAME1840030	MSL	Mende	AFR	African Ancestry	MSL	
+HG03455	female	SAME1839766	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03462	male	SAME1839817	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03397	male	SAME1839400	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03431	female	SAME1840101	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38
+HG03436	male	SAME1840120	MSL	Mende	AFR	African Ancestry	MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release

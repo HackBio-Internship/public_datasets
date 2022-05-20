@@ -1,0 +1,118 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+NA19312	male	SAME123315	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19317	male	SAME123312	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19324	female	SAME123472	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19331	male	SAME123250	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19350	male	SAME122853	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19355	female	SAME124077	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19374	male	SAME125115	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19379	female	SAME125092	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19381	female	SAME124275	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19393	male	SAME124496	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19398	female	SAME124497	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19401	female	SAME123634	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19432	female	SAME123855	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes phase 3 release
+NA19437	female	SAME123851	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19444	male	SAME122947	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19449	female	SAME122946	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19451	male	SAME125415	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19456	female	SAME125410	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19463	female	SAME123297	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19468	female	SAME123299	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19470	female	SAME123118	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19475	female	SAME123121	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19037	female	SAME124665	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19044	male	SAME125244	LWK	Luhya,Luhya	AFR	African Ancestry,Africa (SGDP)	LWK,LuhyaSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19019	female	SAME124000	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19026	male	SAME124849	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19038	female	SAME124668	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19020	male	SAME124855	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19025	male	SAME124852	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19309	male	SAME124984	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19311	male	SAME123452	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19316	female	SAME123311	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19323	female	SAME123471	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19328	female	SAME123463	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19347	male	SAME124340	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19359	male	SAME125093	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19373	male	SAME124706	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19378	female	SAME125091	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19380	male	SAME124276	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19385	male	SAME124271	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19397	male	SAME124492	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19429	male	SAME124037	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19431	female	SAME123853	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19436	female	SAME123852	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19443	male	SAME122954	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19448	male	SAME122945	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19455	male	SAME125411	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19462	female	SAME123296	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19467	female	SAME123295	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19474	female	SAME123122	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19041	male	SAME125241	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19046	male	SAME124292	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19313	female	SAME123316	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19318	male	SAME124753	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19320	female	SAME124570	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19332	female	SAME123723	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19351	female	SAME122854	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19375	male	SAME125116	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19382	male	SAME124274	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19308	male	SAME124985	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19394	male	SAME124489	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19310	female	SAME123449	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19399	female	SAME124498	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19315	female	SAME123310	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19438	female	SAME123848	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19327	female	SAME123473	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19440	female	SAME122951	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19334	male	SAME123722	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19445	female	SAME122948	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19346	male	SAME124341	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19360	male	SAME124915	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19372	male	SAME125100	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19377	female	SAME124470	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19384	male	SAME124272	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19391	female	SAME124494	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19396	female	SAME124491	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19404	female	SAME123637	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19428	male	SAME124036	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19430	male	SAME123854	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19435	female	SAME123849	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19027	male	SAME124850	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19452	male	SAME125414	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19457	female	SAME125409	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19469	female	SAME123300	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19031	male	SAME123543	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19471	female	SAME123117	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19036	female	SAME124666	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19043	male	SAME125243	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19454	male	SAME125412	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19461	male	SAME123298	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19466	male	SAME123294	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19473	female	SAME123119	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19017	female	SAME124259	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19024	female	SAME124851	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19023	female	SAME124854	LWK	Luhya,Luhya	AFR	African Ancestry,Africa (SGDP)	LWK,LuhyaSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19028	male	SAME124848	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19030	female	SAME123544	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19035	male	SAME124664	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19042	female	SAME125242	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA19307	male	SAME124981	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19314	female	SAME123309	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19319	male	SAME123438	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19321	female	SAME124569	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19338	female	SAME123274	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19352	male	SAME124075	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19371	male	SAME125111	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19376	male	SAME124469	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19383	male	SAME124273	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19390	female	SAME124493	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19395	female	SAME124490	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19403	female	SAME123636	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19434	female	SAME123850	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19439	female	SAME123847	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19446	female	SAME122949	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19453	male	SAME125413	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA19472	female	SAME123120	LWK	Luhya	AFR	African Ancestry	LWK	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+GM19320	female		LWK	Luhya	AFR	African Ancestry	LWK	Human Genome Structural Variation Consortium, Phase 3

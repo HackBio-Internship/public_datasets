@@ -1,0 +1,149 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG01142	male	SAME1839731	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01250	male	SAME125281	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01255	male	SAME125286	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01483	female	SAME1839962	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01488	male	SAME123973	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01490	female	SAME124139	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01495	female	SAME124136	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01438	female	SAME124971	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01440	male	SAME123237	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01445	male	SAME1839015	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01452	male	SAME1839158	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01457	male	SAME123428	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release
+HG01464	male	SAME122883	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01471	female	SAME1840197	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01344	male	SAME124862	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01349	female	SAME124865	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01351	female	SAME124683	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01356	male	SAME124682	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01363	female	SAME1839059	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01375	female	SAME124290	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01254	female	SAME125285	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01123	female	SAME1840204	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01130	male	SAME1839995	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01135	male	SAME123886	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01274	male	SAME123001	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01279	female	SAME123004	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01281	female	SAME1839107	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01259	male	SAME125280	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01261	male	SAME122814	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01273	male	SAME124046	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01278	female	SAME123003	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01280	male	SAME1839113	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01433	male	SAME1839252	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38
+HG01122	female	SAME1840203	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01134	female	SAME123887	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01139	male	SAME123876	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01141	female	SAME124423	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01343	female	SAME124857	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01348	female	SAME124864	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01350	male	SAME124684	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01355	female	SAME124679	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01362	male	SAME1839066	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01367	female	SAME125266	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01374	male	SAME124291	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01379	female	SAME124283	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01482	male	SAME1839969	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01487	female	SAME1840042	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01494	male	SAME124135	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01499	male	SAME124143	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01552	male	SAME124007	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01437	male	SAME124966	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01444	female	SAME1839026	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01456	female	SAME123427	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01463	female	SAME123537	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01468	female	SAME1840382	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01432	female	SAME1839256	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01345	female	SAME124863	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01352	female	SAME124686	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release
+HG01357	female	SAME124681	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01364	female	SAME1839152	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01369	female	SAME1839124	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01376	female	SAME124289	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01383	male	SAME122971	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01390	female	SAME122805	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01114	female	SAME123483	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG01484	female	SAME1839960	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01119	female	SAME1840402	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01489	female	SAME123972	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01121	male	SAME1840127	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01491	male	SAME124140	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01126	male	SAME124052	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01496	female	SAME124133	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01133	male	SAME123884	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01138	male	SAME123877	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01140	female	SAME124422	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01148	male	SAME124424	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01150	female	SAME124216	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01251	female	SAME125282	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01253	male	SAME125284	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01256	male	SAME125287	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01112	male	SAME123485	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01124	male	SAME124053	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01131	female	SAME1839985	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01136	male	SAME123889	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01342	female	SAME124856	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01347	male	SAME124861	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01354	female	SAME124680	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01439	female	SAME124972	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01359	male	SAME124687	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01441	female	SAME123236	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01361	female	SAME124504	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01453	female	SAME1839159	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01366	female	SAME125265	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01465	female	SAME122882	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01378	female	SAME124076	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01477	female	SAME1840183	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01385	female	SAME122970	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01275	female	SAME123002	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01258	male	SAME125279	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01260	female	SAME122815	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01272	female	SAME122996	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01277	male	SAME123000	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01284	female	SAME1839191	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01481	female	SAME1839971	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01486	female	SAME1840048	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01493	female	SAME124138	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01498	female	SAME124142	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01431	male	SAME1839260	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01443	male	SAME1839032	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01455	male	SAME123429	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01462	female	SAME123539	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01474	female	SAME1840189	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01479	male	SAME1840251	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01551	female	SAME124008	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01556	male	SAME1840141	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01341	male	SAME124859	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01346	female	SAME124860	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01353	male	SAME124685	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01358	male	SAME124688	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01360	female	SAME122855	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01365	male	SAME124508	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01372	female	SAME1840339	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01377	male	SAME124288	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01384	female	SAME122969	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01389	male	SAME122972	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01149	female	SAME124425	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01252	male	SAME125283	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01257	female	SAME125288	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01113	female	SAME123484	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01125	female	SAME124054	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01137	female	SAME123888	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01269	female	SAME1839257	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01271	male	SAME122998	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01276	female	SAME122999	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01550	male	SAME124009	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01480	female	SAME1839974	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01485	male	SAME1840047	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01492	female	SAME124137	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01497	male	SAME124134	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01435	female	SAME1839239	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01442	male	SAME123238	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes phase 3 release
+HG01447	female	SAME1839099	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01454	female	SAME1840304	CLM	Colombian	AMR	American Ancestry	CLM	
+HG01459	female	SAME1840278	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01461	male	SAME122879	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01466	female	SAME122881	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01473	male	SAME1840192	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes on GRCh38
+HG01391	female	SAME122804	CLM	Colombian	AMR	American Ancestry	CLM	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release

@@ -1,0 +1,159 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG01589	male	SAME1839859	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01583	male	SAME1839895	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01590	female	SAME1839651	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38
+HG02599	male	SAME1839266	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG02602	male	SAME1840290	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02493	male	SAME1839704	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02789	male	SAME1840280	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02791	male	SAME1840342	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02688	female	SAME1839358	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02690	male	SAME1839088	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02727	male	SAME1839727	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02733	male	SAME1839874	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02738	male	SAME1839560	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02776	female	SAME1839017	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02783	male	SAME1839162	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03016	female	SAME1839952	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02788	female	SAME1840285	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03023	male	SAME1839797	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG02790	female	SAME1840345	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02734	female	SAME1839869	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02492	male	SAME1839610	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG02784	female	SAME1839157	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02652	female	SAME1839541	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02657	male	SAME1839600	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02683	female	SAME1839298	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02687	male	SAME1839270	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02694	female	SAME1839065	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02699	male	SAME1839129	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02726	female	SAME1839732	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02601	female	SAME1840293	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02649	female	SAME1839852	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03489	male	SAME1839494	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03491	female	SAME1839264	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02651	male	SAME1839544	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02656	male	SAME1839607	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02682	female	SAME1839300	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03015	male	SAME1839940	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03022	female	SAME1839795	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03237	male	SAME1839282	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03229	female	SAME1839234	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03236	female	SAME1839276	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03624	male	SAME1839709	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03629	male	SAME1839738	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03631	female	SAME1839855	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03636	male	SAME1839586	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03706	female	SAME1839758	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03701	male	SAME1840016	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03650	female	SAME1839488	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03667	male	SAME1839331	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03763	male	SAME1839122	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03488	female	SAME1839486	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03490	male	SAME1839259	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03654	male	SAME1839513	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03635	female	SAME1839578	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03762	female	SAME1839119	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03767	male	SAME1839141	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03700	female	SAME1840010	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03705	male	SAME1840051	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01594	male	SAME1839631	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG02494	female	SAME1839698	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02603	male	SAME1840287	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02491	female	SAME1839617	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02792	male	SAME1840416	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02689	male	SAME1839355	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02691	female	SAME1839084	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02696	male	SAME1839149	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02597	male	SAME1839199	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02728	female	SAME1839722	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02600	male	SAME1840302	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02735	male	SAME1839866	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02605	female	SAME1840277	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02778	female	SAME1839100	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02780	male	SAME1839169	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02785	female	SAME1840298	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02648	male	SAME1839751	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03017	male	SAME1839956	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02650	male	SAME1839550	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02787	female	SAME1840288	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02794	male	SAME1840410	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02653	female	SAME1839537	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02658	female	SAME1839597	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02660	male	SAME1839672	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02684	male	SAME1839292	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03019	female	SAME1840060	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03021	male	SAME1839789	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03238	female	SAME1839289	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03492	male	SAME1839196	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02655	female	SAME1839526	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02662	female	SAME1839662	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02681	male	SAME1839304	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02686	male	SAME1839277	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02737	female	SAME1839857	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02775	female	SAME1839022	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02698	male	SAME1839137	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02701	male	SAME1840152	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02725	female	SAME1839737	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03228	male	SAME1839232	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03230	female	SAME1839335	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03235	female	SAME1839360	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03649	male	SAME1839396	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03651	male	SAME1839498	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03656	female	SAME1839435	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38
+HG03663	male	SAME1839317	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01586	male	SAME1839879	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03668	female	SAME1839338	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01593	female	SAME1839634	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03699	male	SAME1840153	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03702	male	SAME1840029	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03618	male	SAME1840062	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03620	female	SAME1839790	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03625	female	SAME1839719	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03707	male	SAME1839761	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03769	male	SAME1839154	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG03704	female	SAME1840040	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03709	female	SAME1839780	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03641	male	SAME1839626	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03653	female	SAME1839508	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03660	male	SAME1839218	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03761	male	SAME1839114	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03487	male	SAME1839480	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03634	female	SAME1839575	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03639	male	SAME1839603	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38
+HG03766	male	SAME1839136	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG02786	male	SAME1840292	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02793	female	SAME1840415	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02654	male	SAME1839530	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02659	female	SAME1839590	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02661	female	SAME1839667	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02685	female	SAME1839286	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02692	female	SAME1839078	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG02697	female	SAME1839142	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02700	female	SAME1840159	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02724	male	SAME1839740	PJL	Punjabi,Punjabi	SAS	South Asia (SGDP),South Asian Ancestry	PunjabiSGDP,PJL	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02729	male	SAME1839715	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02731	female	SAME1839886	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02604	female	SAME1840282	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02736	male	SAME1839860	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02774	male	SAME1839028	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02779	male	SAME1839097	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG02781	female	SAME1839167	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38
+HG02490	male	SAME1839625	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02495	female	SAME1839694	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03234	male	SAME1839357	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03239	female	SAME1839295	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03018	male	SAME1840053	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03619	female	SAME1840064	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03621	male	SAME1839794	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38
+HG03626	female	SAME1839723	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03633	male	SAME1839571	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03638	female	SAME1839592	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG03640	female	SAME1839621	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03652	male	SAME1839505	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03657	male	SAME1839439	PJL	Punjabi	SAS	South Asian Ancestry	PJL	
+HG03669	female	SAME1839345	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03703	female	SAME1840032	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03708	male	SAME1839773	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG03710	male	SAME1839891	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes 30x on GRCh38
+HG03765	female	SAME1839131	PJL	Punjabi	SAS	South Asian Ancestry	PJL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release

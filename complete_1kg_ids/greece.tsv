@@ -1,0 +1,163 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+HG01503	male	SAME124944	IBS	Iberian,Spanish	EUR	European Ancestry,West Eurasia (SGDP)	IBS,SpanishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01508	male	SAME124939	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01510	female	SAME124771	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01604	female	SAME123460	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01515	male	SAME124774	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01522	female	SAME125321	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01527	male	SAME125326	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01609	male	SAME123461	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01611	male	SAME123624	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01616	female	SAME123629	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01623	female	SAME123845	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01628	female	SAME123837	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01630	male	SAME124034	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01762	female	SAME124811	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01767	male	SAME1839671	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01774	male	SAME124634	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01779	female	SAME124629	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01781	male	SAME124921	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01786	female	SAME1839312	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01697	female	SAME1839223	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01700	male	SAME123261	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01705	male	SAME123266	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01603	male	SAME123453	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01748	male	SAME125191	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01755	female	SAME124986	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01673	female	SAME123289	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01678	male	SAME123292	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01680	male	SAME124656	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01502	male	SAME124943	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01685	female	SAME124659	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01507	female	SAME124948	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01514	female	SAME124775	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01519	female	SAME124765	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01521	male	SAME125324	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01526	male	SAME125325	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01538	female	SAME125141	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01696	male	SAME124715	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01704	female	SAME123265	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01709	male	SAME123229	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01711	female	SAME123083	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01747	male	SAME125181	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01761	male	SAME124810	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01766	female	SAME1839673	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01773	female	SAME124635	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01778	male	SAME124630	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01780	male	SAME124428	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01608	male	SAME123462	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01610	male	SAME123623	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01615	male	SAME123628	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01622	female	SAME123846	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01627	male	SAME123841	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01672	male	SAME123288	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01677	female	SAME123285	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01684	female	SAME124660	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02222	female	SAME123717	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02234	male	SAME1839367	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02239	female	SAME1839420	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01785	male	SAME1839313	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02219	male	SAME1839813	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02221	male	SAME123716	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02233	male	SAME1839370	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02238	male	SAME1839423	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02240	female	SAME1839481	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01605	female	SAME123459	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01504	female	SAME124945	IBS	Iberian,Spanish	EUR	European Ancestry,West Eurasia (SGDP)	IBS,SpanishSGDP	1000 Genomes on GRCh38,Simons Genome Diversity Project,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01509	male	SAME124940	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01511	female	SAME124770	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01516	female	SAME124773	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01523	male	SAME125322	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01528	female	SAME125329	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01530	male	SAME125137	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01782	female	SAME124426	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01787	female	SAME1839306	IBS	Iberian	EUR	European Ancestry	IBS	
+HG01501	female	SAME124942	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01506	male	SAME124947	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01612	female	SAME123625	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01617	male	SAME123630	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01624	male	SAME123840	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01629	male	SAME123836	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01631	male	SAME124035	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01667	male	SAME123116	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01513	female	SAME124768	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01518	male	SAME124766	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01520	female	SAME125323	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01525	female	SAME125328	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01756	male	SAME124988	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01532	male	SAME125138	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01763	female	SAME124812	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01537	female	SAME125134	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01768	female	SAME1839665	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01770	female	SAME124638	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01775	male	SAME124633	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01784	female	SAME124431	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01674	male	SAME123286	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01679	female	SAME123293	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01681	female	SAME124655	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01686	male	SAME124658	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01607	female	SAME123457	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01698	male	SAME1839214	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01614	female	SAME123627	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01701	male	SAME123262	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01619	male	SAME123632	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01706	female	SAME123263	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01621	male	SAME123843	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01626	female	SAME123842	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01633	male	SAME124033	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01602	female	SAME123454	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01669	male	SAME123110	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01671	male	SAME123291	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01676	female	SAME123284	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01683	male	SAME124653	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01695	female	SAME124845	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01703	male	SAME123260	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01708	male	SAME123253	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01710	female	SAME123084	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01746	female	SAME125180	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01765	male	SAME1839681	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01772	female	SAME124636	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01777	male	SAME124631	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02223	female	SAME1839584	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02230	female	SAME1839383	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02235	female	SAME123521	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02218	female	SAME1839820	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38
+HG02220	female	SAME123715	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02225	female	SAME1839576	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02232	female	SAME1839374	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02237	female	SAME123519	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01512	male	SAME124769	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01517	female	SAME124772	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01524	male	SAME125327	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01529	male	SAME125330	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01531	female	SAME125136	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01536	male	SAME125135	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01500	male	SAME124941	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01505	male	SAME124946	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1000 Genomes phase 3 release
+HG01601	male	SAME123455	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01606	male	SAME123458	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01613	female	SAME123626	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01618	female	SAME123631	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01620	female	SAME123844	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01625	male	SAME123839	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+HG01632	female	SAME124032	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01668	female	SAME123111	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01670	female	SAME123290	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01675	male	SAME123287	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01682	male	SAME124654	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01687	female	SAME124657	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01694	male	SAME124844	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01757	female	SAME124987	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01764	female	SAME1839689	IBS	Iberian	EUR	European Ancestry	IBS	
+HG01769	female	SAME1839655	IBS	Iberian	EUR	European Ancestry	IBS	
+HG01771	male	SAME124637	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01776	female	SAME124632	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01699	male	SAME1839210	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01702	female	SAME123259	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01707	female	SAME123264	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG01783	male	SAME124427	IBS,MSL	Iberian,Mende	EUR,AFR	European Ancestry,African Ancestry	IBS,MSL	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02217	female	SAME1839826	IBS	Iberian	EUR	European Ancestry	IBS	
+HG02224	male	SAME1839579	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02229	female	SAME1839649	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02231	male	SAME1839376	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+HG02236	male	SAME123520	IBS	Iberian	EUR	European Ancestry	IBS	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
