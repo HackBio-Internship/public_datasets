@@ -17,4 +17,4 @@ bcftools view --force-samples -S sierra_leone 20201028_CCDG_14151_B01_GRM_WGS_20
 bcftools view --force-samples -S sri_lanka 20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrY.recalibrated_variants.vcf > sri_lanka.vcf
 bcftools view --force-samples -S uk_id 20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrY.recalibrated_variants.vcf > uk.vcf
 bcftools view --force-samples -S vietnam_id 20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrY.recalibrated_variants.vcf > vietnam.vcf
-
+bcftools view --force-samples -S all_ids 20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrY.recalibrated_variants.vcf > aLL_IDS_DATASET.vcf
