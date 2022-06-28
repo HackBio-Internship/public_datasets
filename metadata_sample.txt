@@ -1,0 +1,4 @@
+Sample	age	country
+ERS1887136	61	Nigeria
+ERS1887137	61	India
+ERS1887138	44	Mexico
