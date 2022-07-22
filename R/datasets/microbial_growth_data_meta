@@ -1,0 +1,3 @@
+Sample data set used in "Analyzing Microbial Growth with R"
+
+Each row of the example file contains the Time (in seconds), Temperature (in degrees Celsius), and absorbance readings at 600 nm for the 96 wells in a microtiter plate over a 24-hour period. These 96 values each have their own column in the row. To see the layout of this data frame, run summary(rawdata).
