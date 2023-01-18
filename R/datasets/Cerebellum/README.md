@@ -5,4 +5,4 @@ Your task, create a shiny app that:
 1. Displays a volcano plot for a dataset when you select it. ( volcano plot is a scatter plot of log2FC on the x-axis and -1*log(qvalue) on y-axis) when you 
 2. Displys the log2FC of each gene across all 4 datasets when selected. 
 
-See sample below in the image below.
+See sample below in the image ![below.](https://github.com/HackBio-Internship/public_datasets/blob/main/R/datasets/Cerebellum/SAMPLErEPORT.png?raw=true)
