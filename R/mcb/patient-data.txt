@@ -1,0 +1,101 @@
+ID	Name	Sex	Smokes	Height	Weight	Birth	State	Grade_Level	Died	Score	Date.Entered.Study
+AC/AH/001	Michael	Male	FALSE	182.87cm	76.57kg	1972-02-06	Georgia	2	FALSE	0.01	2015-12-01
+AC/AH/017	Derek	Male	FALSE	179.12cm	80.43kg	1972-06-15	Colorado 	2	FALSE	-1.31	
+AC/AH/020	Todd	 Male	FALSE	169.15cm	75.48kg	1972-07-09	New Jersey	2	FALSE	-0.17	
+AC/AH/022	Ronald	Male	FALSE	175.66cm	94.54kg	1972-08-17	Colorado	1	FALSE	-1.1	
+AC/AH/029	Christine	Female	FALSE	164.47cm	71.78kg	1973-06-12	Georgia	2	TRUE	1.42	
+AC/AH/033	Dana	Female	TRUE	158.27cm	69.9kg	1973-07-01	Indiana	2	FALSE	0.29	
+AC/AH/037	Erin	Female	FALSE	161.69cm	68.85kg	1972-03-26	New York	1	FALSE	0.16	
+AC/AH/044	Rachel	Female	No	165.84cm	70.44kg	1973-05-11	Colorado 	1	FALSE	-0.07	
+AC/AH/045	Ronald	Male	FALSE	181.32cm	76.9kg	1971-12-31	Georgia	1	FALSE	-1.43	
+AC/AH/048	Bryan	 Male	FALSE	167.37cm	79.06kg	1973-07-19	New Jersey	2	FALSE	0.54	2015-12-31
+AC/AH/049	Kimberly	Female	FALSE	160.06cm	72.37kg	1972-05-04	Georgia	2	TRUE	-2.41	
+AC/AH/050	Pamela	Female	FALSE	166.48cm	67.34kg	1971-11-14	New Jersey	1	FALSE	1.05	
+AC/AH/052	Kenneth	Male	TRUE	175.39cm	92.22kg	1972-03-22	Colorado 	3	FALSE	-0.04	
+AC/AH/053	Stacy	Female	TRUE	164.7cm	75.69kg	1971-11-22	Colorado 	1	FALSE	-0.65	
+AC/AH/057	Elizabeth	Female	TRUE	163.79cm	65.76kg	1972-01-12	New Jersey	3	FALSE	0.06	
+AC/AH/061	Marc	Male	FALSE	181.13cm	72.33kg	1972-11-22	New York	99	TRUE	-0.15	
+AC/AH/063	Brandon	Male	FALSE	169.24cm	73.3kg	1971-11-22	New Jersey	3	FALSE	0.68	
+AC/AH/076	Travis	Male	FALSE	176.22cm	97.67kg	1973-04-14	New Jersey	2	FALSE	-1.97	
+AC/AH/077	Andrew	Male	FALSE	174.09cm	72.2kg	1973-02-07	California	3	FALSE	-1.18	
+AC/AH/086	Jeffrey	Male	TRUE	180.11cm	75.72kg	1973-05-18	New York	3	FALSE	0.4	
+AC/AH/089	Jimmy	Male	FALSE	179.24cm	75.54kg	1972-03-17	New Jersey	2	TRUE	-0.47	
+AC/AH/100	Tara	Female	FALSE	161.92cm	69.92kg	1973-01-02	indiana	1	FALSE	0.5	
+AC/AH/104	Thomas	Male	TRUE	169.85cm	90.63kg	1972-04-18	New York	1	TRUE	-0.2	
+AC/AH/112	Paula	 Female	FALSE	160.57cm	63.54kg	1973-07-02	New York	99	TRUE	0.69	2016-01-31
+AC/AH/113	Sandra	 Female	No	168.24cm	69.57kg	1972-02-13	California	2	FALSE	0.38	
+AC/AH/114	Mark	Male	FALSE	177.75cm	74.84kg	1972-11-25	Indiana	3	FALSE	0.15	
+AC/AH/115	Steven	Male	TRUE	183.21cm	83.36kg	1973-10-05	New York	2	FALSE	0.05	
+AC/AH/127	George	Male	FALSE	167.75cm	82.06kg	1972-11-04	New York	1	TRUE	0.63	
+AC/AH/133	Steven	Male	FALSE	181.15cm	83.93kg	1973-10-19	New York	3	TRUE	-0.81	2016-03-02
+AC/AH/150	Brandon	Male	TRUE	181.56cm	79.54kg	1972-05-09	Georgia	1	TRUE	0.92	
+AC/AH/154	Julie	Female	FALSE	160.03cm	64.3kg	1973-09-05	New Jersey	1	TRUE	-0.1	
+AC/AH/156	Aaron	Male	FALSE	165.62cm	76.72kg	1972-07-15	Georgia	1	TRUE	0.61	
+AC/AH/159	Jeffery	Male	No	181.64cm	96.91kg	1972-12-10	Colorado 	2	FALSE	-0.39	
+AC/AH/160	Kristen	Female	FALSE	159.67cm	71.88kg	1973-09-28	New York	2	TRUE	0.74	
+AC/AH/164	Brett	Male	TRUE	177.03cm	74.04kg	1972-02-24	Indiana	2	FALSE	0.15	
+AC/AH/171	Teresa	Female	No	163.35cm	70.46kg	1973-04-22	indiana	3	TRUE	1.68	2016-03-31
+AC/AH/176	Brent	Male	FALSE	175.21cm	83.65kg	1973-05-07	New York	3	TRUE	0.41	
+AC/AH/180	Tiffany	Female	FALSE	160.8cm	64.77kg	1973-02-24	New York	1	TRUE	-2.17	
+AC/AH/185	Joel	Male	FALSE	166.46cm	76.83kg	1972-08-23	New Jersey	99	TRUE	-1.32	
+AC/AH/186	Michelle	Female	FALSE	157.95cm	67.41kg	1972-05-12	Georgia	3	TRUE	-1.89	
+AC/AH/192	Aaron	Male	FALSE	180.61cm	83.59kg	1972-03-30	Californa	3	TRUE	-0.6	
+AC/AH/198	Brandy	Female	FALSE	159.52cm	67.99kg	1972-12-08	New York	2	FALSE	-0.4	
+AC/AH/207	Kristina	Female	FALSE	163.01cm	65.19kg	1973-05-23	Georgia	2	FALSE	1.07	
+AC/AH/208	Catherine	Female	FALSE	165.8cm	71.77kg	1973-08-13	Californa	1	FALSE	-1.21	
+AC/AH/210	Alicia	Female	TRUE	170.03cm	66.68kg	1972-09-03	New Jersey	99	FALSE	-0.66	
+AC/AH/211	Sherry	Female	FALSE	157.16cm	69.64kg	1973-07-20	Californa	2	TRUE	-0.7	2016-05-01
+AC/AH/213	Tanya	Female	Yes	164.58cm	72.99kg	1972-01-31	New York	1	FALSE	-0.32	
+AC/AH/219	Nancy	Female	FALSE	163.47cm	72.89kg	1972-04-13	Indiana	1	TRUE	0.33	
+AC/AH/220	Charles	Male	FALSE	185.43cm	87.23kg	1973-07-19	New York	1	FALSE	1.29	
+AC/AH/221	Linda	Female	FALSE	165.34cm	70.84kg	1972-02-07	Georgia	99	TRUE	1.69	
+AC/AH/225	Nicole	Female	FALSE	163.45cm	67.67kg	1972-10-27	Indiana	2	FALSE	-0.74	
+AC/AH/233	Wendy	 Female	FALSE	163.97cm	66.71kg	1971-12-29	New York	3	TRUE	-1.07	
+AC/AH/241	April	Female	FALSE	161.38cm	73.55kg	1972-02-14	Indiana	3	FALSE	-0.82	2016-05-31
+AC/AH/244	Barbara	Female	FALSE	160.09cm	65.93kg	1973-01-31	New York	99	TRUE	0.5	
+AC/AH/248	Brandon	Male	FALSE	178.64cm	97.05kg	1973-01-18	indiana	1	TRUE	-1.21	
+AC/AH/249	Holly	Female	TRUE	159.78cm	68.31kg	1972-04-29	New Jersey	2	TRUE	0.52	
+AC/SG/002	Stacy	Female 	TRUE	161.57cm	67.92kg	1973-07-09	indiana	3	FALSE	0.33	
+AC/SG/003	Kelly	Female 	No	161.83cm	66.03kg	1972-07-17	indiana	2	TRUE	-0.9	
+AC/SG/008	Shawn	 Male	Yes	169.66cm	77.3kg	1973-06-01	indiana	1	TRUE	-2.36	
+AC/SG/009	Anthony	Male	FALSE	166.84cm	88.25kg	1972-03-10	Colorado	1	FALSE	1.51	2016-07-01
+AC/SG/010	Sherry	Female	FALSE	159.32cm	64.92kg	1973-02-04	Georgia	2	TRUE	0.71	
+AC/SG/015	Jeffery	Male	Yes	170.51cm	84.35kg	1972-11-15	New Jersey	3	TRUE	0.12	
+AC/SG/016	Valerie	Female	FALSE	161.84cm	69.97kg	1972-04-09	California	3	TRUE	-0.57	
+AC/SG/046	Jimmy	Male	FALSE	171.41cm	81.7kg	1973-08-11	Georgia	2	TRUE	0.43	
+AC/SG/055	Jeffrey	Male	FALSE	166.75cm	79.06kg	1972-03-01	Colorado 	3	TRUE	-0.55	2016-07-31
+AC/SG/056	Tiffany	Female	Yes	166.19cm	67.46kg	1972-12-03	California	3	TRUE	-1.06	
+AC/SG/064	Steven	Male 	FALSE	169.16cm	90.08kg	1972-10-10	Indiana	2	TRUE	-0.1	
+AC/SG/065	Brandy	Female	FALSE	157.01cm	66.56kg	1972-04-11	Colorado	3	TRUE	0.64	
+AC/SG/067	Jon	Male	FALSE	167.51cm	84.15kg	1972-07-25	New York	2	TRUE	-1.46	
+AC/SG/068	Sarah	Female	FALSE	160.47cm	68.2kg	1972-04-21	Georgia	3	TRUE	0.83	
+AC/SG/072	Barbara	Female	TRUE	162.33cm	66.47kg	1972-02-21	New Jersey	3	FALSE	1.02	
+AC/SG/074	James	Male	FALSE	175.67cm	88.82kg	1973-10-10	New Jersey	99	FALSE	-3.14	
+AC/SG/084	Marc	Male	FALSE	174.25cm	80.93kg	1972-03-12	Colorado 	2	TRUE	1.79	
+AC/SG/095	Mary	 Female	FALSE	158.94cm	65.14kg	1973-06-01	Colorado 	1	FALSE	0.47	
+AC/SG/099	Richard	 Male	FALSE	172.72cm	67.62kg	1972-02-10	Georgia	1	FALSE	0.05	
+AC/SG/101	Erica	Female	FALSE	159.23cm	69.96kg	1973-10-04	California	2	TRUE	-0.81	
+AC/SG/107	Benjamin	Male	FALSE	176.54cm	90.76kg	1973-02-03	indiana	3	FALSE	-1.48	2016-08-31
+AC/SG/116	Joel	Male	FALSE	184.34cm	90.41kg	1972-06-11	Californa	3	TRUE	-1.41	
+AC/SG/121	Carrie	Female	FALSE	163.94cm	71.47kg	1973-03-18	New York	3	FALSE	-0.25	
+AC/SG/122	Alicia	Female 	FALSE	160.09cm	68.94kg	1971-12-22	indiana	1	FALSE	-0.99	
+AC/SG/123	Paula	 Female	TRUE	162.32cm	72.72kg	1972-09-09	Indiana	1	TRUE	-0.92	
+AC/SG/134	Stacy	Female 	TRUE	162.59cm	69.76kg	1972-06-03	Colorado 	2	TRUE	-0.28	
+AC/SG/139	Todd	Male	FALSE	171.94cm	82.11kg	1973-10-12	New York	1	FALSE	-1.18	
+AC/SG/142	Brenda	Female	FALSE	158.07cm	69.8kg	1972-05-21	Californa	3	FALSE	0.54	
+AC/SG/155	Laura	Female	FALSE	158.35cm	69.72kg	1972-06-08	New Jersey	3	TRUE	1.42	
+AC/SG/165	Laura	Female	FALSE	162.18cm	67.81kg	1972-03-31	indiana	1	TRUE	1.68	
+AC/SG/167	Suzanne	Female	FALSE	159.38cm	70.37kg	1973-10-06	Georgia	2	TRUE	0.02	2016-10-01
+AC/SG/172	Troy	Male	No	171.45cm	84.29kg	1972-03-02	Colorado	2	TRUE	-0.19	
+AC/SG/173	Barbara	Female	TRUE	163.17cm	64.47kg	1973-06-25	indiana	2	FALSE	0.69	
+AC/SG/179	Russell	Male	FALSE	183.1cm	82.47kg	1972-10-30	New Jersey	3	TRUE	0.77	
+AC/SG/181	Philip	Male	FALSE	177.14cm	88.7kg	1971-11-30	Georgia	3	TRUE	1.76	
+AC/SG/182	Stephen	Male	TRUE	171.08cm	72.51kg	1973-03-31	New Jersey	3	TRUE	-0.22	
+AC/SG/191	Holly	Female	FALSE	159.33cm	70.68kg	1973-06-27	New Jersey	3	TRUE	-1.07	
+AC/SG/193	Douglas	Male 	TRUE	185.43cm	73.63kg	1973-06-11	New York	3	FALSE	-0.29	
+AC/SG/194	Christy	Female	FALSE	162.65cm	73.99kg	1972-08-10	Colorado	3	FALSE	0.87	2016-10-31
+AC/SG/197	Jill	Female	FALSE	159.44cm	66.21kg	1972-11-14	New York	1	TRUE	1.21	
+AC/SG/204	Rhonda	Female	FALSE	164.11cm	70.66kg	1972-06-23	New Jersey	3	FALSE	-0.17	
+AC/SG/216	Wendy	 Female	FALSE	159.13cm	66.96kg	1972-06-25	Georgia	1	TRUE	0.95	
+AC/SG/217	Sharon	Female	FALSE	160.58cm	71.49kg	1972-11-17	New Jersey	1	TRUE	-0.78	
+AC/SG/234	Cheryl	Female	FALSE	164.88cm	68.07kg	1971-11-16	Colorado	3	TRUE	0.35	
