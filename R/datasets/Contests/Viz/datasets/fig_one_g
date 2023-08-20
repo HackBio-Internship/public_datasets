@@ -1,0 +1,48 @@
+	short_identifier	technology	Median_unique_nr_frag	fmx_delta_donor_llk
+ddS Bi1	ddS Bi1	Bio-Rad ddSEQ SureCell	7156	
+ddS Bi2	ddS Bi2	Bio-Rad ddSEQ SureCell	8032.5	
+ddS Bi3	ddS Bi3	Bio-Rad ddSEQ SureCell	6535	
+ddS Bi4	ddS Bi4	Bio-Rad ddSEQ SureCell	7214	
+mt* Br1	mt* Br1	mtscATAC-seq (FACS)	16066.5	305.75
+mt* Br2	mt* Br2	mtscATAC-seq (FACS)	15757	295.62
+MO C1	MO C1	10x Multiome	9436	164.99
+MO C2	MO C2	10x Multiome	6513	91.02
+v1.1 C1	v1.1 C1	10x v1.1	7207	132.16
+v1.1 C2	v1.1 C2	10x v1.1	7728	139.095
+v1.1 C3	v1.1 C3	10x v1.1	11580	197.685
+v1.1c C1	v1.1c C1	10x v1.1 (control)	15797	266.2
+v1.1c C2	v1.1c C2	10x v1.1 (control)	14476.5	237.15
+v2 C1	v2 C1	10x v2	11286	169.94
+v2 C2	v2 C2	10x v2	11065	166.33
+Hy C1	Hy C1	HyDrop	1842	33.36
+Hy C2	Hy C2	HyDrop	1959	34.46
+Hy C3	Hy C3	HyDrop	2180.5	38.975
+mt C1	mt C1	mtscATAC-seq	6772.5	103.455
+mt C2	mt C2	mtscATAC-seq	8809	140.075
+Hy E1	Hy E1	HyDrop	3205	43.155
+Hy E2	Hy E2	HyDrop	3095	40.6
+Hy E3	Hy E3	HyDrop	3538	48.83
+Hy E4	Hy E4	HyDrop	3830	50.06
+ddS H1	ddS H1	Bio-Rad ddSEQ SureCell	8908	149.75
+ddS H2	ddS H2	Bio-Rad ddSEQ SureCell	8211.5	137.395
+mt M1	mt M1	mtscATAC-seq	14924	362.72
+mt M2	mt M2	mtscATAC-seq	10910	313.92
+s3 O1	s3 O1	s3-ATAC	7175	215.79
+s3 O2	s3 O2	s3-ATAC	4573	
+MO Sa1	MO Sa1	10x Multiome	12123	200.9
+MO Sa2	MO Sa2	10x Multiome	11376.5	186.99
+v1.1 St1	v1.1 St1	10x v1.1	10697	145.7
+v1.1 St2	v1.1 St2	10x v1.1	8180.5	111.79
+v1.1 T1	v1.1 T1	10x v1.1	12592	
+v2 T1	v2 T1	10x v2	18911	
+v2 T2	v2 T2	10x v2	18885	
+ddS U1	ddS U1	Bio-Rad ddSEQ SureCell	7090	
+ddS U2	ddS U2	Bio-Rad ddSEQ SureCell	7980	
+MO V1	MO V1	10x Multiome	4682	80.67
+MO V2	MO V2	10x Multiome	5389	94.28
+v1 V1	v1 V1	10x v1	9474	171.06
+v1 V2	v1 V2	10x v1	11400	178.01
+v2 V1	v2 V1	10x v2	20271	325.095
+v2 V2	v2 V2	10x v2	20832.5	332.785
+Hy V1	Hy V1	HyDrop	3835	
+Hy V2	Hy V2	HyDrop	4112	
