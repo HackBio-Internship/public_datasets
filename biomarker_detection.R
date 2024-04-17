@@ -267,5 +267,227 @@ TCGAvisualize_EAbarplot(tf = rownames(up.EA$ResBP),
 
 
 
+
+#========= Quick interlude =======
+#change of data
+table(gbm.data$tumor_descriptor)
+
+#we will be using this low grade glioblastoma dataset
+lgg.data <- readRDS('LGGrnaseq.rds')
+meta <- readRDS('patient2LGGsubtypes.rds')
+
+
+
 #============== 007 ============
+#predicting tumor status as either methylated or non-methylated
+#install.packages("caret")
+#install.packages("DALEX")
+#install.packages('pROC')
+
+library(caret)
+library(pROC)
+library(DALEX)
+set.seed(34567)
+
+#Unsupervised machine learning
+## k-nearest neighbour
+## How many samples do we have under each subset?
+table(meta$subtype)
+
+
+#preview filtered normalized data
+boxplot(lgg.data[,1:50], las = 2) #also note the effect of transformation
+par(oma = c(10,0,0,0))
+boxplot(log10(lgg.data[,1:100]+1), ylim = c(0,10), las = 2) #log transform
+
+
+
+
+
+
+
+
+
+
+
+
+
+#select top variable genes 
+all.trans <- data.frame(t(lgg.data))
+SDs = apply(all.trans, 2, sd)
+topPreds = order(SDs, decreasing = T)[1:1000]
+all.trans = all.trans[, topPreds]
+dim(all.trans)
+#View(all.trans)
+
+#ourFinal Dataset for ML
+all.trans <- merge(all.trans, meta, by = "row.names")
+dim(all.trans)
+all.trans[1:5,1:5]
+rownames(all.trans) <- all.trans$Row.names #make the sample ids row names again
+all.trans[1:5,1:5]
+all.trans <- all.trans[,-1]
+all.trans[1:5,1:5]
+
+
+#we need to perform some preprocessing
+# 1. Remove Near Zero variation
+all.zero <- preProcess(all.trans, method = 'nzv', uniqueCut = 15)
+all.trans <- predict(all.zero, all.trans)
+
+# 2. center
+all.center <- preProcess(all.trans, method = 'center')
+all.trans <- predict(all.center, all.trans)
+
+
+# 3. remove highly correlated
+all.corr <- preProcess(all.trans, method = 'corr', cutoff = 0.5)
+all.trans <- predict(all.corr, all.trans)
+
+###======= preprocessing done ======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#splitting the dataset (70:30)
+intrain <- createDataPartition(y = all.trans$subtype, p = 0.7)[[1]]
+
+#separate the test and training
+train.lgg <- all.trans[intrain,]
+test.lgg <- all.trans[-intrain,]
+
+dim(train.lgg)
+dim(test.lgg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+#let's train
+ctrl.lgg <- trainControl(method = 'cv', number = 5)
+
+
+knn.lgg <- train(subtype~., #the levels of classification
+                 data = train.lgg, #the training dataset
+                 method = 'knn', # the kNN method
+                 trControl = ctrl.lgg,  # the training control
+                 tuneGrid = data.frame(k=1:20))
+
+#the best k is:
+knn.lgg$bestTune
+
+#predict
+trainPred <- predict(knn.lgg, newdata = train.lgg)
+testPred <- predict(knn.lgg, newdata = test.lgg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#interpretation
+#confusion matrix
+confusionMatrix(trainPred, train.lgg$subtype)
+confusionMatrix(testPred, test.lgg$subtype)
+
+
+#determine variable importance
+explainer.lgg <- explain(knn.lgg, 
+                         label = 'knn',
+                         data = train.lgg,
+                         y = as.numeric(train.lgg$subtype))
+
+importance.lgg <- feature_importance(explainer.lgg, n_sample = 50, type = 'difference')
+
+head(importance.lgg$variable) 
+tail(importance.lgg$variable)
+
+plot(importance.lgg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#method 2: classification
+
+#### random forest
+rf.ctrl <- trainControl(method = 'cv') #bootstrap
+
+rf.lgg <- train(subtype~.,
+                data = train.lgg,
+                method = 'ranger',
+                trControl = rf.ctrl,
+                importance = 'permutation',
+                tuneGrid = data.frame(mtry=100,
+                                      min.node.size = 1,
+                                      splitrule="gini")
+                )
+
+
+rf.lgg$finalModel$prediction.error
+
+plot(varImp(rf.lgg), top = 10)
 
